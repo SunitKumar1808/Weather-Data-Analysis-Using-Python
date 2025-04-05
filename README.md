@@ -3,7 +3,7 @@ This project presents an in-depth exploratory data analysis (EDA) of synthetic w
 
 The main aim is to provide insights into weather trends, and more importantly, offer data-driven crop recommendations to enhance agricultural decision-making and support climate-smart farming practices.
 
-📌 Project Objectives
+# 📌 Project Objectives
 Analyze weather conditions across multiple Indian cities.
 
 Understand how climate factors like temperature and rainfall influence crop suitability.
@@ -14,7 +14,7 @@ Visualize trends using a variety of graphs and plots.
 
 Identify ideal locations and seasons for farming.
 
-📁 Dataset Overview
+# 📁 Dataset Overview
 The dataset used in this project contains the following features:
 
 Column Name	Description
@@ -26,7 +26,7 @@ Rainfall (mm)	Daily rainfall in mm
 Wind Speed (km/h)	Wind speed at that time
 Weather Condition	Description like Sunny, Rainy, Foggy, etc.
 Recommended Crop	Suggested crop based on temperature & rainfall
-🛠️ Tools & Libraries Used
+# 🛠️ Tools & Libraries Used
 Python – Primary language for analysis
 
 Jupyter Notebook – Development and analysis environment
@@ -41,7 +41,7 @@ Seaborn – Statistical graphics and advanced visualizations
 
 Datetime – For date and time extraction
 
-📊 Data Visualizations Used
+# 📊 Data Visualizations Used
 To make insights clearer and more interactive, the following graphs and plots have been implemented:
 
 📈 Histograms – For distribution of temperature across the dataset
@@ -58,7 +58,7 @@ To make insights clearer and more interactive, the following graphs and plots ha
 
 ☁️ Scatter Plots – Visual relationship between temperature and rainfall
 
-📚 Topics Covered in This Project
+# 📚 Topics Covered in This Project
 1. Basic Data Exploration
 Shape, datatypes, null checks, descriptive statistics
 
@@ -99,7 +99,7 @@ Best cities for agriculture based on rainfall, humidity
 
 Ideal crops for each region
 
-🔍 Insights Gained
+# 🔍 Insights Gained
 Certain cities have consistently high rainfall and are suitable for Kharif crops like Rice and Maize.
 
 Regions with dry and cool climates are better for Rabi crops like Wheat and Barley.
